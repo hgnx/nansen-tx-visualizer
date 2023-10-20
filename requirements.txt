@@ -1,0 +1,8 @@
+kaleido==0.2.1
+pandas==2.0.3
+plotly==5.16.0
+python-binance==1.0.19
+python-dotenv==1.0.0
+requests==2.31.0
+scipy==1.11.2
+configparser==6.0.0
